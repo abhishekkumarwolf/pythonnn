@@ -5,7 +5,7 @@ def get_choices():
     return player_choice
 
 
-def greerting():
+def greeting():
     return "hi"
 
 response = greeting()
