@@ -1,0 +1,16 @@
+{
+    "123": {
+        "empId": 123,
+        "name": "Abhishek",
+        "base_salary": 40000,
+        "degree": "none",
+        "department": "Engineer"
+    },
+    "1234": {
+        "empId": 1234,
+        "name": "shreya",
+        "base_salary": 90000,
+        "degree": "none",
+        "department": "Manager"
+    }
+}
