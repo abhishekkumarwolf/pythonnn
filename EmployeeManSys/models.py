@@ -1,8 +1,8 @@
 from sqlalchemy import Column, Integer, String
-from app.database import Base 
+from database import Base 
 
 
-class Emplyoyee(Base):
+class Employee(Base):
 
     __tablename__="employees"
 

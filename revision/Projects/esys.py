@@ -82,7 +82,7 @@ def load_from_json():
     for empId, info in data.items():
         if info["department"] == "Engineer":
             user = Engineer(
-                int(info["empId"]),
+                int(info["empId"]), 
                 info["name"],
                 info["base_salary"],
                 info["degree"],
