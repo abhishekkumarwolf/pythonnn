@@ -1,0 +1,62 @@
+{
+    "1": {
+        "bookId": 1,
+        "name": "Clean Code",
+        "author": "Robert C. Martin",
+        "available": true
+    },
+    "2": {
+        "bookId": 2,
+        "name": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen",
+        "available": true
+    },
+    "3": {
+        "bookId": 3,
+        "name": "The Pragmatic Programmer",
+        "author": "Andrew Hunt",
+        "available": true
+    },
+    "4": {
+        "bookId": 4,
+        "name": "Design Patterns",
+        "author": "Erich Gamma",
+        "available": true
+    },
+    "5": {
+        "bookId": 5,
+        "name": "Python Crash Course",
+        "author": "Eric Matthes",
+        "available": true
+    },
+    "6": {
+        "bookId": 6,
+        "name": "Effective Java",
+        "author": "Joshua Bloch",
+        "available": true
+    },
+    "7": {
+        "bookId": 7,
+        "name": "You Don\u00e2\u20ac\u2122t Know JS",
+        "author": "Kyle Simpson",
+        "available": true
+    },
+    "8": {
+        "bookId": 8,
+        "name": "Computer Networking",
+        "author": "Andrew S. Tanenbaum",
+        "available": true
+    },
+    "9": {
+        "bookId": 9,
+        "name": "Artificial Intelligence: A Modern Approach",
+        "author": "Stuart Russell",
+        "available": true
+    },
+    "10": {
+        "bookId": 10,
+        "name": "Operating System Concepts",
+        "author": "Abraham Silberschatz",
+        "available": true
+    }
+}

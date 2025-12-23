@@ -1,0 +1,16 @@
+{
+    "123": {
+        "stdId": 123,
+        "name": "Abhishek",
+        "contact": "90317875",
+        "year": 2028,
+        "branch": "cse"
+    },
+    "111": {
+        "stdId": 111,
+        "name": "gandhi",
+        "contact": "090",
+        "year": "kfjrk",
+        "branch": 54554
+    }
+}
