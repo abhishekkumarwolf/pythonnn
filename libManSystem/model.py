@@ -5,7 +5,7 @@ def create_table():
     cur = conn.cursor()
 
     cur.execute("""
-    CREATE TABLE IF NOT EXISTS STUDENTS(
+    CREATE TABLE IF NOT EXISTS student(
         stdId INTEGER PRIMARY KEY,
         name TEXT,
         contact TEXT,
@@ -14,7 +14,7 @@ def create_table():
     )            
     """)
 
-    cur.execute("""
+    cur.execute  ("""
     CREATE TABLE IF NOT EXISTS books(
         bookId INTEGER PRIMARY KEY AUTOINCREMENT,
         name TEXT,
